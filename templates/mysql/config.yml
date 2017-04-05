@@ -1,6 +1,6 @@
-name: Mysql Example
+name: Mysql Andre
 description: |
   Mysql example application
 version: "1.0"
 category: DATABASE
-maintainer: Jonathan Baraldi <jonathanbaraldi@gmail.com>
+maintainer: Andre Siqueira <andre2siqueira@gmail.com>
